@@ -1,0 +1,35 @@
+body {
+	font-size: 16px;
+}
+
+.album {
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: row;
+}
+
+.album-meta {
+	flex: 1;
+	padding-left: 10px;
+}
+
+.album-name {
+	color: #444;
+}
+
+.artist-name {
+	color: #777;
+}
+
+.album-count {
+	display: inline-block;
+	font-size: 18px;
+	line-height: 24px;
+	height: 24px;
+	width: 24px;
+	vertical-align: middle;
+	text-align: center;
+	border-radius: 12px;
+	color: white;
+	background: #7b7;
+}

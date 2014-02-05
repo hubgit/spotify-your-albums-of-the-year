@@ -1,0 +1,19 @@
+{
+  "AppName": {
+    "en": "Your AOTY"
+  },
+  "BundleIdentifier": "your-albums-of-the-year",
+  "AppDescription": {
+    "en": "Your Albums of the Year"
+  },
+  "BundleType": "Application",
+  "BundleVersion": "0.1",
+  "Dependencies": {
+    "api": "1.38.0",
+    "views": "1.18.1"
+  },
+  "SupportedLanguages": [
+    "en"
+  ],
+  "VendorIdentifier": "org.macropus"
+}
